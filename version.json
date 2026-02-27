@@ -1,4 +1,16 @@
 {
-  "en": 1,
-  "kn": 1
+  "en": {
+    "version": 1,
+    "files": [
+      "panchanga.en.md",
+      "timetables.en.md"
+    ]
+  },
+  "kn": {
+    "version": 1,
+    "files": [
+      "panchanga.kn.md",
+      "timetables.kn.md"
+    ]
+  }
 }
