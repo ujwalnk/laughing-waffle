@@ -1,13 +1,13 @@
 {
   "en": {
-    "version": 1,
+    "version": 2,
     "files": [
       "panchanga.en.md",
       "timetables.en.md"
     ]
   },
   "kn": {
-    "version": 1,
+    "version": 2,
     "files": [
       "panchanga.kn.md",
       "timetables.kn.md"
