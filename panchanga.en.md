@@ -1,31 +1,172 @@
 # Panchanga
 
-## Nakshatras
+## Samvatsaras
 
-Nakshatras are the 27 lunar constellations used in the Hindu calendar.
+- Prabhava
+- Vibhava
+- Shukla
+- Pramoda
+- Prajotpatti
+- Angirasa
+- Shrimukha
+- Bhava
+- Yuva
+- Dhata
+- Ishvara
+- Bahudhanya
+- Pramadi
+- Vikrama
+- Vrisha
+- Chitrabhanu
+- Svabhanu
+- Tarana
+- Parthiva
+- Vyaya
+- Sarvajit
+- Sarvadhari
+- Virodhi
+- Vikruti
+- Khara
+- Nandana
+- Vijaya
+- Jaya
+- Manmatha
+- Durmukhi
+- Hevilambi
+- Vilambi
+- Vikari
+- Sharvari
+- Plava
+- Subhakrit
+- Shobhana
+- Krodhi
+- Vishvavasu
+- Parabhava
+- Plavanga
+- Kilaka
+- Saumya
+- Sadharana
+- Virodhikruth
+- Paridhavi
+- Pramadhicha
+- Ananda
+- Rakshasa
+- Nala
+- Pingala
+- Kalayukti
+- Siddharthi
+- Raudra
+- Durmati
+- Dundubhi
+- Rudhirodgari
+- Raktakshi
+- Krodhana
+- Akshaya
+
+## Aayanas
+
+- Uttarayana
+- Dakshinayana
+
+## Tithis
+
+- Pratipada
+- Dwitiya
+- Tritiya
+- Chaturthi
+- Panchami
+- Shashti
+- Saptami
+- Ashtami
+- Navami
+- Dashami
+- Ekadashi
+- Dwadashi
+- Trayodashi
+- Chaturdashi
+- Purnima(Shukla Paksha) / Amavasya (Krisha Paksha)
+
+## Nakshatras
 
 - Ashwini
 - Bharani
 - Krittika
 - Rohini
+- Mrigashira
+- Ardra
+- Punarvasu
+- Pushya
+- Ashlesha
+- Magha
+- Purva Phalguni
+- Uttara Phalguni
+- Hasta
+- Chitra
+- Swati
+- Vishakha
+- Anuradha
 - Jyeshtha
+- Mula
+- Purva Ashadha
+- Uttara Ashadha
+- Shravana
+- Dhanishta
+- Shatabhisha
+- Purva Bhadrapada
+- Uttara Bhadrapada
+- Revati
 
-## Masa
+## Yogas
 
-Masa refers to the lunar month in the traditional calendar.
+- Vishkumbha
+- Priti
+- Ayushman
+- Saubhagya
+- Shobhana
+- Atiganda
+- Sukarma
+- Dhriti
+- Shoola
+- Ganda
+- Vriddhi
+- Dhruva
+- Vyaghata
+- Harshana
+- Vajra
+- Siddhi
+- Vyatipata
+- Variyana
+- Parigha
+- Shiva
+- Siddha
+- Sadhya
+- Shubha
+- Shukla
+- Brahma
+- Indra
+- Vaidhriti
 
-- Chaitra
-- Vaishakha
-- Jyeshtha
-- Ashadha
+## Karanas
 
-## Tithis
+- Bava
+- Balava
+- Kaulava
+- Taitila
+- Garaja
+- Vanija
+- Vishti (Bhadra)
+- Shakuni
+- Chatushpada
+- Nagava
+- Kimstughna
 
-Tithi is a lunar day.
+## Ritu and Maasa
 
-| Tithi Name | Number |
-|------------|--------|
-| Pratipada  | 1      |
-| Dwitiya    | 2      |
-| Tritiya    | 3      |
-| Chaturthi  | 4      |
+| Ritu | Months |
+|------|------|
+| Vasanta | Chaitra, Vaishakha |
+| Grishma | Jyeshtha, Ashadha |
+| Varsha | Shravana, Bhadrapada |
+| Sharad | Ashvina, Kartika |
+| Hemanta | Margashirsha, Pausha |
+| Shishira | Magha, Phalguna |
