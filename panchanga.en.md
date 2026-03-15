@@ -148,17 +148,17 @@
 
 ## Karanas
 
-- Bava
-- Balava
-- Kaulava
-- Taitila
-- Garaja
-- Vanija
-- Vishti (Bhadra)
-- Shakuni
-- Chatushpada
-- Nagava
-- Kimstughna
+1. Bava
+2. Balava
+3. Kaulava
+4. Taitila
+5. Garaja
+6. Vanija
+7. Vishti (Bhadra)
+8. Shakuni
+9. Chatushpada
+10. Nagava
+11. Kimstughna
 
 ## Ritu and Maasa
 
